@@ -383,6 +383,7 @@ h2 {
 .blog-placeholder {
   display: grid;
   grid-template-columns: 1fr;
+  align-items: stretch;
   gap: 14px;
 }
 
@@ -407,7 +408,7 @@ h2 {
 .blog-placeholder article,
 .detail-card,
 .transparent-box {
-  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .category-card:hover,
@@ -415,7 +416,7 @@ h2 {
 .trust-grid article:hover,
 .values-grid article:hover,
 .blog-placeholder article:hover {
-  transform: translateY(-3px);
+  transform: translateY(-4px);
   border-color: rgba(185, 138, 95, 0.36);
   box-shadow: var(--shadow-hover);
 }
@@ -425,6 +426,16 @@ h2 {
 .values-grid article,
 .blog-placeholder article {
   padding: 22px;
+}
+
+.blog-placeholder article {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.blog-placeholder .button {
+  margin-top: auto;
 }
 
 .category-card h3,
@@ -768,21 +779,21 @@ h2 {
 }
 
 .article-cover {
-  height: 132px;
+  aspect-ratio: 3 / 2;
+  height: auto;
   margin: -2px -2px 18px;
   border-radius: 8px;
   border: 1px solid var(--line);
   overflow: hidden;
-  background:
-    radial-gradient(circle at 78% 26%, rgba(185, 138, 95, 0.28), transparent 4.8rem),
-    linear-gradient(135deg, #f8e7df, #fffaf5 52%, #e8ecdf);
+  background: #FFF8F2;
 }
 
 .article-cover img {
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
 }
 
 .soon-button {
@@ -968,25 +979,6 @@ h2 {
   .values-grid,
   .blog-placeholder {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .blog-placeholder .featured-article {
-    grid-column: 1 / -1;
-    display: grid;
-    grid-template-columns: minmax(220px, 0.8fr) minmax(0, 1fr);
-    align-items: center;
-    column-gap: 26px;
-  }
-
-  .featured-article .article-cover {
-    grid-row: 1 / 5;
-    height: 100%;
-    min-height: 220px;
-    margin: 0;
-  }
-
-  .featured-article > :not(.article-cover) {
-    grid-column: 2;
   }
 
   .metric-grid {
