@@ -1,0 +1,51 @@
+(function () {
+  const toggle = document.querySelector(".nav-toggle");
+  const nav = document.querySelector(".site-nav");
+
+  if (toggle && nav) {
+    toggle.addEventListener("click", function () {
+      const isOpen = toggle.getAttribute("aria-expanded") === "true";
+      toggle.setAttribute("aria-expanded", String(!isOpen));
+      nav.classList.toggle("is-open", !isOpen);
+    });
+  }
+
+  function renderOffers(container, offers, limit) {
+    if (!container || !offers) return;
+    const selected = limit ? offers.slice(0, limit) : offers;
+    container.innerHTML = selected
+      .map(function (offer) {
+        return [
+          '<article class="offer-card">',
+          '<div class="offer-card-top">',
+          '<div class="badge-row"><span class="pill">' + offer.category + "</span>",
+          offer.badge ? '<span class="pill accent">' + offer.badge + "</span>" : "",
+          offer.usedBadge ? '<span class="pill used">' + offer.usedBadge + "</span>" : "",
+          "</div>",
+          "<h3>" + offer.name + "</h3>",
+          offer.primaryBenefit ? '<p class="offer-benefit">' + offer.primaryBenefit + "</p>" : "",
+          "<p>" + offer.summary + "</p>",
+          "</div>",
+          '<ul class="mini-list">',
+          offer.benefits.map(function (item) { return "<li>" + item + "</li>"; }).join(""),
+          "</ul>",
+          '<p class="disclosure">' + offer.disclosure + "</p>",
+          '<a class="button primary wide" href="' + offer.url + '">' + offer.cta + "</a>",
+          "</article>"
+        ].join("");
+      })
+      .join("");
+  }
+
+  const offers = window.ECOMILIE_OFFERS || [];
+  const featured = document.querySelector("#featured-offers");
+  const allOffers = document.querySelector("#all-offers");
+
+  if (featured) {
+    renderOffers(featured, offers, Number(featured.dataset.limit || 0));
+  }
+
+  if (allOffers) {
+    renderOffers(allOffers, offers);
+  }
+})();
