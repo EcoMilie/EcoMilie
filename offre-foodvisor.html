@@ -40,7 +40,19 @@
       <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
       <nav id="site-nav" class="site-nav" aria-label="Navigation principale">
         <a href="index.html">Accueil</a>
-        <a href="offres.html" aria-current="page">Offres</a>
+        <details class="offers-menu">
+          <summary>Offres</summary>
+          <div class="offers-submenu">
+            <a href="offres.html">Toutes les offres</a>
+            <a href="banques.html">Banques</a>
+            <a href="cashback.html">Cashback</a>
+            <a href="shopping.html">Shopping</a>
+            <a href="courses.html">Courses</a>
+            <a href="energie.html">Énergie</a>
+            <a href="offres.html">Santé / Nutrition</a>
+            <a href="offres.html">Bébé / Famille</a>
+          </div>
+        </details>
         <a href="blog.html">Blog</a>
         <a href="a-propos.html">À propos</a>
         <a href="contact.html">Contact</a>
@@ -68,17 +80,21 @@
               <li>Analyse nutritionnelle</li>
               <li>Application intuitive</li>
             </ul>
+            <div class="code-box">
+              <h2>📩 Recevoir une invitation</h2>
+              <p>Pour recevoir une invitation Foodvisor, indiquez simplement votre adresse e-mail.</p>
+              <form id="foodvisor-invite-form">
+                <label for="foodvisor-email">Adresse e-mail</label>
+                <input id="foodvisor-email" name="email" type="email" autocomplete="email" required placeholder="votre@email.fr" style="width:100%;min-height:48px;border:1px solid var(--line);border-radius:999px;padding:12px 16px;color:var(--ink);background:var(--warm-white);font:inherit;" />
+                <button class="button primary wide" type="submit">Envoyer</button>
+              </form>
+            </div>
+            <p class="fine-print">Le formulaire ne stocke aucune donnée. Il ouvre uniquement un e-mail prérempli.</p>
           </section>
 
           <aside class="transparent-box">
-            <h2>📩 Recevoir une invitation</h2>
-            <p>Pour recevoir une invitation Foodvisor, indiquez simplement votre adresse e-mail.</p>
-            <form id="foodvisor-invite-form" class="code-box">
-              <label for="foodvisor-email">Adresse e-mail</label>
-              <input id="foodvisor-email" name="email" type="email" autocomplete="email" required placeholder="votre@email.fr" style="width:100%;min-height:48px;border:1px solid var(--line);border-radius:999px;padding:12px 16px;color:var(--ink);background:var(--warm-white);font:inherit;" />
-              <button class="button primary wide" type="submit">Envoyer</button>
-            </form>
-            <p class="fine-print">Le formulaire ne stocke aucune donnée. Il ouvre uniquement un e-mail prérempli.</p>
+            <h2>Transparence sur Foodvisor</h2>
+            <p>Cette fiche permet de demander une invitation par e-mail. Aucune donnée n'est stockée sur le site EcoMilie.</p>
           </aside>
         </div>
       </article>
