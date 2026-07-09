@@ -16,24 +16,24 @@
   }
 
   const brandData=[
-    {match:"BoursoBank",label:"BoursoBank",src:"assets/logos/boursobank.svg"},
-    {match:"Too Good To Go",label:"Too Good To Go",src:"assets/logos/too-good-to-go.svg"},
-    {match:"Showroompriv\u00e9",label:"Showroompriv\u00e9",src:"assets/logos/showroomprive.svg"},
-    {match:"Showroompriv",label:"Showroompriv\u00e9",src:"assets/logos/showroomprive.svg"},
-    {match:"B\u00e9b\u00e9 Boutik",label:"B\u00e9b\u00e9 Boutik",src:"assets/logos/bebeboutik.svg"},
-    {match:"Basic-Fit",label:"Basic-Fit",src:"assets/logos/basicfit.svg"},
-    {match:"HelloFresh",label:"HelloFresh",src:"assets/logos/hellofresh.svg"},
-    {match:"Foodvisor",label:"Foodvisor",src:"assets/logos/foodvisor.svg"},
-    {match:"Shopmium",label:"Shopmium",src:"assets/logos/shopmium.svg"},
-    {match:"eBuyClub",label:"eBuyClub",src:"assets/logos/ebuyclub.svg"},
+    {match:"BoursoBank",label:"BoursoBank",src:"assets/logos/boursobank.jpg"},
+    {match:"Too Good To Go",label:"Too Good To Go",src:"assets/logos/too-good-to-go.png"},
+    {match:"Showroompriv\u00e9",label:"Showroompriv\u00e9",src:"assets/logos/showroomprive.png"},
+    {match:"Showroompriv",label:"Showroompriv\u00e9",src:"assets/logos/showroomprive.png"},
+    {match:"B\u00e9b\u00e9 Boutik",label:"B\u00e9b\u00e9 Boutik",src:"assets/logos/bebeboutik.jpg"},
+    {match:"Basic-Fit",label:"Basic-Fit",src:"assets/logos/basicfit.png"},
+    {match:"HelloFresh",label:"HelloFresh",src:"assets/logos/hellofresh.png"},
+    {match:"Foodvisor",label:"Foodvisor",src:"assets/logos/foodvisor.jpg"},
+    {match:"Shopmium",label:"Shopmium",src:"assets/logos/shopmium.png"},
+    {match:"eBuyClub",label:"eBuyClub",src:"assets/logos/ebuyclub.png"},
     {match:"Passtime",label:"PassTime",src:"assets/logos/passtime.svg"},
     {match:"PassTime",label:"PassTime",src:"assets/logos/passtime.svg"},
-    {match:"PayPal",label:"PayPal",src:"assets/logos/paypal.svg"},
-    {match:"iGraal",label:"iGraal",src:"assets/logos/igraal.svg"},
-    {match:"Choose",label:"Choose",src:"assets/logos/choose.svg"},
-    {match:"ENGIE",label:"Engie",src:"assets/logos/engie.svg"},
-    {match:"Engie",label:"Engie",src:"assets/logos/engie.svg"},
-    {match:"Joko",label:"Joko",src:"assets/logos/joko.svg"}
+    {match:"PayPal",label:"PayPal",src:"assets/logos/paypal.png"},
+    {match:"iGraal",label:"iGraal",src:"assets/logos/igraal.png"},
+    {match:"Choose",label:"Choose",src:"assets/logos/choose.png"},
+    {match:"ENGIE",label:"Engie",src:"assets/logos/engie.png"},
+    {match:"Engie",label:"Engie",src:"assets/logos/engie.png"},
+    {match:"Joko",label:"Joko",src:"assets/logos/joko.png"}
   ];
 
   function brandFromText(text){
