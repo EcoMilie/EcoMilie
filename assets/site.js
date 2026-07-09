@@ -16,23 +16,24 @@
   }
 
   const brandData=[
-    {match:"BoursoBank",label:"BoursoBank",mark:"BB"},
-    {match:"Too Good To Go",label:"Too Good To Go",mark:"TG"},
-    {match:"Showroompriv\u00e9",label:"Showroompriv\u00e9",mark:"SP"},
-    {match:"B\u00e9b\u00e9 Boutik",label:"B\u00e9b\u00e9 Boutik",mark:"BB"},
-    {match:"Basic-Fit",label:"Basic-Fit",mark:"BF"},
-    {match:"HelloFresh",label:"HelloFresh",mark:"HF"},
-    {match:"Foodvisor",label:"Foodvisor",mark:"FV"},
-    {match:"Shopmium",label:"Shopmium",mark:"SH"},
-    {match:"eBuyClub",label:"eBuyClub",mark:"EC"},
-    {match:"Passtime",label:"PassTime",mark:"PT"},
-    {match:"PassTime",label:"PassTime",mark:"PT"},
-    {match:"PayPal",label:"PayPal",mark:"PP"},
-    {match:"iGraal",label:"iGraal",mark:"IG"},
-    {match:"Choose",label:"Choose",mark:"CH"},
-    {match:"ENGIE",label:"Engie",mark:"EN"},
-    {match:"Engie",label:"Engie",mark:"EN"},
-    {match:"Joko",label:"Joko",mark:"JO"}
+    {match:"BoursoBank",label:"BoursoBank",src:"assets/logos/boursobank.svg"},
+    {match:"Too Good To Go",label:"Too Good To Go",src:"assets/logos/too-good-to-go.svg"},
+    {match:"Showroompriv\u00e9",label:"Showroompriv\u00e9",src:"assets/logos/showroomprive.svg"},
+    {match:"Showroompriv",label:"Showroompriv\u00e9",src:"assets/logos/showroomprive.svg"},
+    {match:"B\u00e9b\u00e9 Boutik",label:"B\u00e9b\u00e9 Boutik",src:"assets/logos/bebeboutik.svg"},
+    {match:"Basic-Fit",label:"Basic-Fit",src:"assets/logos/basicfit.svg"},
+    {match:"HelloFresh",label:"HelloFresh",src:"assets/logos/hellofresh.svg"},
+    {match:"Foodvisor",label:"Foodvisor",src:"assets/logos/foodvisor.svg"},
+    {match:"Shopmium",label:"Shopmium",src:"assets/logos/shopmium.svg"},
+    {match:"eBuyClub",label:"eBuyClub",src:"assets/logos/ebuyclub.svg"},
+    {match:"Passtime",label:"PassTime",src:"assets/logos/passtime.svg"},
+    {match:"PassTime",label:"PassTime",src:"assets/logos/passtime.svg"},
+    {match:"PayPal",label:"PayPal",src:"assets/logos/paypal.svg"},
+    {match:"iGraal",label:"iGraal",src:"assets/logos/igraal.svg"},
+    {match:"Choose",label:"Choose",src:"assets/logos/choose.svg"},
+    {match:"ENGIE",label:"Engie",src:"assets/logos/engie.svg"},
+    {match:"Engie",label:"Engie",src:"assets/logos/engie.svg"},
+    {match:"Joko",label:"Joko",src:"assets/logos/joko.svg"}
   ];
 
   function brandFromText(text){
@@ -40,37 +41,47 @@
     return brandData.find(function(brand){return value.indexOf(brand.match.toLowerCase())!==-1;})||null;
   }
 
-  function brandLogo(name){
-    const brand=brandFromText(name)||{label:String(name||"").split(":")[0].trim(),mark:String(name||"").trim().slice(0,2).toUpperCase()};
-    if(!brand.label)return "";
-    return '<div class="offer-brand-logo" aria-label="Logo '+escapeHtml(brand.label)+'"><span class="offer-logo-mark">'+escapeHtml(brand.mark)+'</span><span class="offer-logo-name">'+escapeHtml(brand.label)+'</span></div>';
+  function logoImg(brand){
+    return '<img class="offer-logo-img" src="'+escapeHtml(brand.src)+'" alt="Logo '+escapeHtml(brand.label)+'" width="180" height="64" loading="lazy" decoding="async" />';
+  }
+
+  function titleRow(name,subtitle){
+    const brand=brandFromText(name);
+    const logo=brand?logoImg(brand):"";
+    return '<div class="offer-title-row">'+logo+'<div class="offer-title-copy"><h3>'+escapeHtml(name)+'</h3>'+(subtitle?'<p class="offer-benefit">'+escapeHtml(subtitle)+'</p>':"")+'</div></div>';
   }
 
   function renderOffers(container,offers,limit){
     if(!container||!offers)return;
     const selected=limit?offers.slice(0,limit):offers;
     container.innerHTML=selected.map(function(offer){
-      return ['<article class="offer-card">',brandLogo(offer.name),'<div class="offer-card-top">','<div class="badge-row"><span class="pill">'+escapeHtml(offer.category)+"</span>",offer.badge?'<span class="pill accent">'+escapeHtml(offer.badge)+"</span>":"",offer.usedBadge?'<span class="pill used">'+escapeHtml(offer.usedBadge)+"</span>":"","</div>","<h3>"+escapeHtml(offer.name)+"</h3>",offer.primaryBenefit?'<p class="offer-benefit">'+escapeHtml(offer.primaryBenefit)+"</p>":"","<p>"+escapeHtml(offer.summary)+"</p>","</div>",'<ul class="mini-list">',offer.benefits.map(function(item){return"<li>"+escapeHtml(item)+"</li>";}).join(""),"</ul>",'<p class="disclosure">'+escapeHtml(offer.disclosure)+"</p>",'<a class="button primary wide" href="'+escapeHtml(offer.url)+'">'+escapeHtml(offer.cta)+"</a>","</article>"].join("");
+      return ['<article class="offer-card">','<div class="offer-card-top">','<div class="badge-row"><span class="pill">'+escapeHtml(offer.category)+"</span>",offer.badge?'<span class="pill accent">'+escapeHtml(offer.badge)+"</span>":"",offer.usedBadge?'<span class="pill used">'+escapeHtml(offer.usedBadge)+"</span>":"","</div>",titleRow(offer.name,offer.primaryBenefit),"<p>"+escapeHtml(offer.summary)+"</p>","</div>",'<ul class="mini-list">',offer.benefits.map(function(item){return"<li>"+escapeHtml(item)+"</li>";}).join(""),"</ul>",'<p class="disclosure">'+escapeHtml(offer.disclosure)+"</p>",'<a class="button primary wide" href="'+escapeHtml(offer.url)+'">'+escapeHtml(offer.cta)+"</a>","</article>"].join("");
     }).join("");
   }
 
   function hydrateStaticOfferLogos(){
     document.querySelectorAll(".offer-card").forEach(function(card){
-      if(card.querySelector(".offer-brand-logo"))return;
-      const heading=card.querySelector("h3,h1,h2");
-      const brand=brandFromText(heading?heading.textContent:"");
+      if(card.querySelector(".offer-title-row"))return;
+      const heading=card.querySelector("h3");
+      if(!heading)return;
+      const brand=brandFromText(heading.textContent);
       if(!brand)return;
-      const wrapper=document.createElement("div");
-      wrapper.className="offer-brand-logo";
-      wrapper.setAttribute("aria-label","Logo "+brand.label);
-      const mark=document.createElement("span");
-      mark.className="offer-logo-mark";
-      mark.textContent=brand.mark;
-      const label=document.createElement("span");
-      label.className="offer-logo-name";
-      label.textContent=brand.label;
-      wrapper.append(mark,label);
-      card.prepend(wrapper);
+      const row=document.createElement("div");
+      row.className="offer-title-row";
+      const img=document.createElement("img");
+      img.className="offer-logo-img";
+      img.src=brand.src;
+      img.alt="Logo "+brand.label;
+      img.width=180;
+      img.height=64;
+      img.loading="lazy";
+      img.decoding="async";
+      const copy=document.createElement("div");
+      copy.className="offer-title-copy";
+      heading.parentNode.insertBefore(row,heading);
+      row.appendChild(img);
+      row.appendChild(copy);
+      copy.appendChild(heading);
     });
   }
 
