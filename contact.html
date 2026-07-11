@@ -26,7 +26,7 @@
     <meta name="twitter:description" content="Contactez EcoMilie pour poser une question, partager une suggestion ou proposer une offre utile autour des bons plans et &eacute;conomies." />
     <meta name="twitter:image" content="https://eco-milie.vercel.app/assets/images/ecomilie-logo.png" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://eco-milie.vercel.app/#organization","name":"EcoMilie","url":"https://eco-milie.vercel.app","description":"Bons plans, parrainages, cashback et applications utiles pour \u00e9conomiser au quotidien.","email":"ecomilie@proton.me","logo":{"@type":"ImageObject","url":"https://eco-milie.vercel.app/assets/images/ecomilie-logo.png"}},{"@type":"WebSite","@id":"https://eco-milie.vercel.app/#website","name":"EcoMilie","url":"https://eco-milie.vercel.app","description":"Bons plans, parrainages, cashback et applications utiles pour \u00e9conomiser au quotidien.","inLanguage":"fr-FR","publisher":{"@id":"https://eco-milie.vercel.app/#organization"}},{"@type":"ContactPage","@id":"https://eco-milie.vercel.app/contact.html#webpage","name":"Contact EcoMilie | Question, suggestion ou bon plan","description":"Contactez EcoMilie pour poser une question, partager une suggestion ou proposer une offre utile autour des bons plans et &eacute;conomies.","url":"https://eco-milie.vercel.app/contact.html","inLanguage":"fr-FR","image":"https://eco-milie.vercel.app/assets/images/ecomilie-logo.png","isPartOf":{"@id":"https://eco-milie.vercel.app/#website"},"publisher":{"@id":"https://eco-milie.vercel.app/#organization"},"about":{"@id":"https://eco-milie.vercel.app/#organization"}}]}</script>
-    <link rel="icon" href="assets/images/ecomilie-logo.png" />
+    <link rel="icon" type="image/png" href="assets/images/favicon.png" />
     <link rel="stylesheet" href="assets/styles.css" />
   </head>
   <body>
@@ -59,30 +59,28 @@
     </header>
 
     <main>
-      <section class="page-hero compact contact-hero">
+      <section class="page-hero compact contact-page-hero">
         <p class="eyebrow">Contact</p>
-        <h1 class="sr-only">Contact EcoMilie</h1>
-        <p>Une question, une suggestion ou une offre &agrave; proposer ? N'h&eacute;sitez pas &agrave; nous contacter.</p>
+        <h1>Contact</h1>
+        <p>Une question, une suggestion ou un bon plan &agrave; partager ? &Eacute;crivez-nous, nous vous r&eacute;pondrons avec plaisir.</p>
       </section>
 
-      <section class="section">
-        <div class="section-heading">
-          <p class="eyebrow">Message</p>
-          <h2>&Eacute;crire &agrave; EcoMilie</h2>
-          <p>Le formulaire ouvre simplement votre logiciel de messagerie. Aucune donn&eacute;e n'est enregistr&eacute;e sur le site.</p>
-        </div>
-        <form class="offer-card" action="mailto:ecomilie@proton.me" method="post" enctype="text/plain">
-          <label>Nom<br /><input name="Nom" type="text" autocomplete="name" required /></label><br /><br />
-          <label>Adresse e-mail<br /><input name="Adresse e-mail" type="email" autocomplete="email" required /></label><br /><br />
-          <label>Sujet<br /><input name="Sujet" type="text" required /></label><br /><br />
-          <label>Message<br /><textarea name="Message" rows="7" required></textarea></label><br /><br />
-          <button class="button primary" type="submit">Envoyer par e-mail</button>
+      <section class="section contact-section">
+        <form class="offer-card contact-form" data-contact-form action="https://formspree.io/f/VOTRE_ID_FORMULAIRE" method="POST" novalidate>
+          <input type="hidden" name="_subject" value="Nouveau message EcoMilie" />
+          <label class="sr-only" for="website">Site web</label>
+          <input id="website" class="contact-honeypot" name="website" type="text" tabindex="-1" autocomplete="off" />
+          <label for="firstname">Pr&eacute;nom<br /><input id="firstname" name="Pr&eacute;nom" type="text" autocomplete="given-name" required /></label>
+          <label for="email">Adresse e-mail<br /><input id="email" name="email" type="email" autocomplete="email" required /></label>
+          <label for="message">Message<br /><textarea id="message" name="Message" rows="7" required></textarea></label>
+          <p class="contact-form-status" data-contact-status role="status" aria-live="polite"></p>
+          <button class="button primary" type="submit">Envoyer</button>
         </form>
       </section>
     </main>
 
     <footer class="site-footer">
-      <div class="footer-copy"><div class="footer-brand"><img src="assets/images/ecomilie-logo.webp" alt="" width="720" height="720" loading="lazy" decoding="async" /><strong>EcoMilie</strong></div><p>EcoMilie partage des bons plans, offres de parrainage et astuces pour &eacute;conomiser au quotidien.</p><p>Certaines offres peuvent contenir des liens de parrainage.</p><p class="footer-thanks">&#128154; Merci de faire grandir EcoMilie.<br />Votre confiance est notre plus belle r&eacute;compense.</p></div>
+      <div class="footer-copy"><div class="footer-brand"><img src="assets/images/ecomilie-logo.webp" alt="" width="720" height="720" loading="lazy" decoding="async" /><strong>EcoMilie</strong></div><p>EcoMilie partage des bons plans, offres de parrainage et astuces pour &eacute;conomiser au quotidien.</p><p>Certaines offres peuvent contenir des liens de parrainage.</p><p class="footer-thanks">&#128154; Merci de faire grandir EcoMilie.<br />Votre confiance est notre plus belle r&eacute;compense.</p><p class="footer-update">Derni&egrave;re mise &agrave; jour : juillet 2026</p></div>
       <div class="footer-links"><a href="mailto:ecomilie@proton.me">ecomilie@proton.me</a><span aria-hidden="true">&bull;</span><a href="a-propos.html">&Agrave; propos</a><a href="contact.html">Contact</a><a href="mentions-legales.html">Mentions l&eacute;gales</a><a href="politique-confidentialite.html">Politique de confidentialit&eacute;</a><span aria-hidden="true">&bull;</span><a href="#">TikTok</a><a href="#">Instagram</a><a href="#">YouTube</a></div>
     </footer>
     <script src="assets/site.js"></script>

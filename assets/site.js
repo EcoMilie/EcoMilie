@@ -54,7 +54,8 @@
 
   function renderOffers(container,offers,limit){
     if(!container||!offers)return;
-    const selected=limit?offers.slice(0,limit):offers;
+    const names=(container.dataset.offers||"").split(",").map(function(name){return name.trim().toLowerCase();}).filter(Boolean);
+    const selected=names.length?names.map(function(name){return offers.find(function(offer){return String(offer.name||"").toLowerCase()===name;});}).filter(Boolean):(limit?offers.slice(0,limit):offers);
     container.innerHTML=selected.map(function(offer){
       return ['<article class="offer-card">','<div class="offer-card-top">','<div class="badge-row"><span class="pill">'+escapeHtml(offer.category)+"</span>",offer.badge?'<span class="pill accent">'+escapeHtml(offer.badge)+"</span>":"",offer.usedBadge?'<span class="pill used">'+escapeHtml(offer.usedBadge)+"</span>":"","</div>",titleRow(offer.name,offer.primaryBenefit),"<p>"+escapeHtml(offer.summary)+"</p>","</div>",'<ul class="mini-list">',offer.benefits.map(function(item){return"<li>"+escapeHtml(item)+"</li>";}).join(""),"</ul>",'<p class="disclosure">'+escapeHtml(offer.disclosure)+"</p>",'<a class="button primary wide" href="'+escapeHtml(offer.url)+'">'+escapeHtml(offer.cta)+"</a>","</article>"].join("");
     }).join("");
@@ -94,6 +95,46 @@
   if(allOffers){renderOffers(allOffers,offers);}
   if(offerCount){offerCount.textContent=String(offers.length);}
   hydrateStaticOfferLogos();
+})();
+
+(function(){
+  const form=document.querySelector("[data-contact-form]");
+  if(!form)return;
+  const status=form.querySelector("[data-contact-status]");
+  const endpoint=form.getAttribute("action")||"";
+  function setStatus(message,type){
+    if(!status)return;
+    status.textContent=message;
+    status.dataset.type=type||"";
+  }
+  form.addEventListener("submit",async function(event){
+    event.preventDefault();
+    setStatus("","");
+    const email=form.querySelector('input[type="email"]');
+    const honeypot=form.querySelector(".contact-honeypot");
+    if(honeypot&&honeypot.value){return;}
+    if(!form.checkValidity()){
+      form.reportValidity();
+      setStatus("Merci de compl\u00e9ter les champs obligatoires avec une adresse e-mail valide.","error");
+      return;
+    }
+    if(endpoint.indexOf("VOTRE_ID_FORMULAIRE")!==-1){
+      setStatus("Le formulaire est pr\u00eat. Il reste \u00e0 renseigner l'identifiant Formspree avant la mise en ligne.","error");
+      return;
+    }
+    if(email&&!email.validity.valid){
+      setStatus("Merci d'indiquer une adresse e-mail valide.","error");
+      return;
+    }
+    try{
+      const response=await fetch(endpoint,{method:"POST",body:new FormData(form),headers:{Accept:"application/json"}});
+      if(!response.ok){throw new Error("send failed");}
+      form.reset();
+      setStatus("Merci ! Votre message a bien \u00e9t\u00e9 envoy\u00e9.","success");
+    }catch(error){
+      setStatus("Une erreur est survenue. Vous pouvez r\u00e9essayer dans quelques instants.","error");
+    }
+  });
 })();
 
 (function(){
