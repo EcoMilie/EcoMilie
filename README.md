@@ -12,7 +12,7 @@ Le projet est concu pour rester gratuit au lancement : aucun abonnement, aucun o
 - Offres
 - Pages detaillees des offres
 - Blog
-- Article : Pourquoi j'ai cree EcoMilie ?
+- Article : Pourquoi j'ai cree EcoMilie 
 - A propos
 - Contact
 
@@ -128,3 +128,15 @@ Pour toute question :
 ```text
 ecomilie@proton.me
 ```
+
+## Activer le formulaire de contact
+
+Le formulaire est préparé pour Formspree, sans endpoint public par défaut.
+
+1. Créer un formulaire dans Formspree.
+2. Copier l'endpoint fourni, au format `https://formspree.io/f/...`.
+3. Ouvrir `assets/contact-config.js`.
+4. Coller l'endpoint entre les guillemets de `FORM_ENDPOINT`.
+5. Redéployer le site.
+
+Tant que `FORM_ENDPOINT` est vide, le bouton du formulaire reste désactivé et aucun message n'est envoyé.

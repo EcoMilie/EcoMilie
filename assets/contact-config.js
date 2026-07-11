@@ -1,0 +1,3 @@
+window.ECOMILIE_CONTACT_CONFIG = {
+  FORM_ENDPOINT: ""
+};
