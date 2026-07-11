@@ -104,11 +104,59 @@
   const submit=form.querySelector('button[type="submit"]');
   const defaultSubmitLabel=submit?submit.textContent:"";
   const config=window.ECOMILIE_CONTACT_CONFIG||{};
-  const endpoint=String(config.FORM_ENDPOINT||"").trim();
+  const endpoint=String(config.FORM_ENDPOINT||form.getAttribute("action")||"").trim();
+  const fields=Array.from(form.querySelectorAll("input, textarea, button"));
   function setStatus(message,type){
     if(!status)return;
     status.textContent=message;
     status.dataset.type=type||"";
+  }
+  function setFormDisabled(disabled){
+    fields.forEach(function(field){
+      field.disabled=disabled;
+    });
+  }
+  function submitWithIframe(payload){
+    return new Promise(function(resolve,reject){
+      let submitted=false;
+      const iframe=document.createElement("iframe");
+      iframe.name="contact-form-frame-"+Date.now();
+      iframe.className="sr-only";
+      iframe.addEventListener("load",function(){
+        if(!submitted){return;}
+        iframe.remove();
+        resolve();
+      });
+      iframe.addEventListener("error",function(){
+        iframe.remove();
+        reject(new Error("iframe failed"));
+      },{once:true});
+      const fallback=document.createElement("form");
+      fallback.method="POST";
+      fallback.action=endpoint;
+      fallback.target=iframe.name;
+      fallback.className="sr-only";
+      payload.forEach(function(value,key){
+        const input=document.createElement("input");
+        input.type="hidden";
+        input.name=key;
+        input.value=value;
+        fallback.appendChild(input);
+      });
+      document.body.appendChild(iframe);
+      document.body.appendChild(fallback);
+      setTimeout(function(){
+        submitted=true;
+        fallback.submit();
+        fallback.remove();
+      },0);
+      setTimeout(function(){
+        if(document.body.contains(iframe)){
+          iframe.remove();
+          resolve();
+        }
+      },5000);
+    });
   }
   if(!endpoint){
     if(submit){submit.disabled=true;}
@@ -130,20 +178,27 @@
       setStatus("Merci d'indiquer une adresse e-mail valide.","error");
       return;
     }
+    const payload=new FormData(form);
+    setFormDisabled(true);
     if(submit){
-      submit.disabled=true;
       submit.textContent="Envoi en cours\u2026";
     }
     try{
-      const response=await fetch(endpoint,{method:"POST",body:new FormData(form),headers:{Accept:"application/json"}});
+      const response=await fetch(endpoint,{method:"POST",body:payload,headers:{Accept:"application/json"}});
       if(!response.ok){throw new Error("send failed");}
       form.reset();
       setStatus("Merci ! Votre message a bien \u00e9t\u00e9 envoy\u00e9.","success");
     }catch(error){
-      setStatus("Une erreur est survenue. Vous pouvez r\u00e9essayer dans quelques instants.","error");
+      try{
+        await submitWithIframe(payload);
+        form.reset();
+        setStatus("Merci ! Votre message a bien \u00e9t\u00e9 envoy\u00e9.","success");
+      }catch(fallbackError){
+        setStatus("Une erreur est survenue. Vous pouvez r\u00e9essayer dans quelques instants.","error");
+      }
     }finally{
+      setFormDisabled(false);
       if(submit){
-        submit.disabled=false;
         submit.textContent=defaultSubmitLabel;
       }
     }
