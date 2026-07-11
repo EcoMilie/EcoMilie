@@ -30,6 +30,7 @@
     {match:"PassTime",label:"PassTime",src:"assets/logos/passtime.png"},
     {match:"PayPal",label:"PayPal",src:"assets/logos/paypal.png"},
     {match:"iGraal",label:"iGraal",src:"assets/logos/igraal.png"},
+    {match:"Whatnot",label:"Whatnot",src:"assets/logos/whatnot.png"},
     {match:"Choose",label:"Choose",src:"assets/logos/choose.png"},
     {match:"ENGIE",label:"Engie",src:"assets/logos/engie.png"},
     {match:"Engie",label:"Engie",src:"assets/logos/engie.png"},
