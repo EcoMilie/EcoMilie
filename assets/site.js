@@ -94,3 +94,11 @@
   if(offerCount){offerCount.textContent=String(offers.length);}
   hydrateStaticOfferLogos();
 })();
+
+(function(){
+  const counter=document.querySelector('[data-blog-count]');
+  if(!counter)return;
+  const links=new Set(Array.from(document.querySelectorAll('.blog-placeholder a[href^="article-"]')).map((link)=>link.getAttribute('href')));
+  const count=links.size;
+  counter.innerHTML='&#128218; '+count+' article'+(count>1?'s':'')+' disponible'+(count>1?'s':'');
+})();
