@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eco-milie.vercel.app/sitemap.xml
+Sitemap: https://www.ecomilie.fr/sitemap.xml
