@@ -1,0 +1,902 @@
+[
+  {
+    "id": "Été_001",
+    "season": "Été",
+    "category": "Bureau",
+    "slug": "face",
+    "description": "portrait de face au bureau, regard doux vers la camera",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Bureau/ete_bureau_face_001.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: portrait de face au bureau, regard doux vers la camera. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_002",
+    "season": "Été",
+    "category": "Bureau",
+    "slug": "trois-quarts",
+    "description": "portrait trois quarts au bureau, leger sourire",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Bureau/ete_bureau_trois-quarts_002.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: portrait trois quarts au bureau, leger sourire. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_003",
+    "season": "Été",
+    "category": "Bureau",
+    "slug": "profil",
+    "description": "portrait de profil, chignon visible, lunettes fines",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Bureau/ete_bureau_profil_003.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: portrait de profil, chignon visible, lunettes fines. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_004",
+    "season": "Été",
+    "category": "Bureau",
+    "slug": "de-dos",
+    "description": "vue de dos devant un bureau clair, chignon et posture reconnaissables",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Bureau/ete_bureau_de-dos_004.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: vue de dos devant un bureau clair, chignon et posture reconnaissables. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_005",
+    "season": "Été",
+    "category": "Bureau",
+    "slug": "assise",
+    "description": "assise a son bureau avec carnet et ordinateur",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Bureau/ete_bureau_assise_005.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise a son bureau avec carnet et ordinateur. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_006",
+    "season": "Été",
+    "category": "Bureau",
+    "slug": "debout",
+    "description": "debout pres du bureau, tablette ou carnet en main",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Bureau/ete_bureau_debout_006.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: debout pres du bureau, tablette ou carnet en main. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_007",
+    "season": "Été",
+    "category": "Travail",
+    "slug": "tape-sur-ordinateur",
+    "description": "tape sur ordinateur portable EcoMilie",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Travail/ete_bureau_tape-sur-ordinateur_007.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: tape sur ordinateur portable EcoMilie. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_008",
+    "season": "Été",
+    "category": "Travail",
+    "slug": "regarde-ecran",
+    "description": "regarde son ecran avec concentration",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Travail/ete_bureau_regarde-ecran_008.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: regarde son ecran avec concentration. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_009",
+    "season": "Été",
+    "category": "Travail",
+    "slug": "prend-des-notes",
+    "description": "prend des notes dans un carnet beige",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Travail/ete_bureau_prend-des-notes_009.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: prend des notes dans un carnet beige. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_010",
+    "season": "Été",
+    "category": "Travail",
+    "slug": "reflechit",
+    "description": "reflechit calmement avec stylo en main",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Travail/ete_bureau_reflechit_010.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: reflechit calmement avec stylo en main. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_011",
+    "season": "Été",
+    "category": "Téléphone",
+    "slug": "telephone-en-main",
+    "description": "tient son telephone avec une offre EcoMilie visible sans texte lisible",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Téléphone/ete_telephone_telephone-en-main_011.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: tient son telephone avec une offre EcoMilie visible sans texte lisible. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_012",
+    "season": "Été",
+    "category": "Téléphone",
+    "slug": "regarde-ecomilie",
+    "description": "regarde l application ou le site EcoMilie sur telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Téléphone/ete_telephone_regarde-ecomilie_012.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: regarde l application ou le site EcoMilie sur telephone. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_013",
+    "season": "Été",
+    "category": "Téléphone",
+    "slug": "fait-defiler",
+    "description": "fait defiler des bons plans sur son telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Téléphone/ete_telephone_fait-defiler_013.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: fait defiler des bons plans sur son telephone. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_014",
+    "season": "Été",
+    "category": "Téléphone",
+    "slug": "montre-telephone",
+    "description": "montre son telephone vers la camera avec sourire discret",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Téléphone/ete_telephone_montre-telephone_014.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: montre son telephone vers la camera avec sourire discret. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_015",
+    "season": "Été",
+    "category": "Téléphone",
+    "slug": "decouvre-bon-plan",
+    "description": "decouvre un bon plan avec expression satisfaite",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Téléphone/ete_telephone_decouvre-bon-plan_015.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: decouvre un bon plan avec expression satisfaite. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_016",
+    "season": "Été",
+    "category": "Courses",
+    "slug": "panier",
+    "description": "porte un panier de courses dans une ambiance douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Courses/ete_courses_panier_016.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: porte un panier de courses dans une ambiance douce. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_017",
+    "season": "Été",
+    "category": "Courses",
+    "slug": "supermarche",
+    "description": "dans un rayon de supermarche clair, compare calmement",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Courses/ete_courses_supermarche_017.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans un rayon de supermarche clair, compare calmement. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_018",
+    "season": "Été",
+    "category": "Courses",
+    "slug": "compare-prix",
+    "description": "compare deux prix ou deux produits avec attention",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Courses/ete_courses_compare-prix_018.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: compare deux prix ou deux produits avec attention. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_019",
+    "season": "Été",
+    "category": "Courses",
+    "slug": "choisit-produit",
+    "description": "choisit un produit utile dans un rayon",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Courses/ete_courses_choisit-produit_019.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: choisit un produit utile dans un rayon. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_020",
+    "season": "Été",
+    "category": "Restaurant",
+    "slug": "terrasse",
+    "description": "assise en terrasse, consulte une offre avant de commander",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Restaurant/ete_restaurant_terrasse_020.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise en terrasse, consulte une offre avant de commander. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_021",
+    "season": "Été",
+    "category": "Restaurant",
+    "slug": "paiement",
+    "description": "paie de maniere simple avec telephone ou carte",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Restaurant/ete_restaurant_paiement_021.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: paie de maniere simple avec telephone ou carte. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_022",
+    "season": "Été",
+    "category": "Restaurant",
+    "slug": "consultation-offre",
+    "description": "consulte une offre restaurant sur telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Restaurant/ete_restaurant_consultation-offre_022.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: consulte une offre restaurant sur telephone. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_023",
+    "season": "Été",
+    "category": "Voyage",
+    "slug": "gare",
+    "description": "a la gare avec petite valise, organisation douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Voyage/ete_voyage_gare_023.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: a la gare avec petite valise, organisation douce. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_024",
+    "season": "Été",
+    "category": "Voyage",
+    "slug": "aeroport",
+    "description": "aeroport lumineux avec valise cabine",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Voyage/ete_voyage_aeroport_024.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: aeroport lumineux avec valise cabine. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Été_025",
+    "season": "Été",
+    "category": "Voyage",
+    "slug": "valise",
+    "description": "prepare sa valise avec carnet bons plans",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Été/Voyage/ete_voyage_valise_025.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: prepare sa valise avec carnet bons plans. lumiere estivale douce, plantes vertes, terrasse lumineuse ou bureau clair.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: blouse creme legere, cardigan fin vert sauge possible, accessoires discrets.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_001",
+    "season": "Automne",
+    "category": "Bureau",
+    "slug": "debout",
+    "description": "debout pres du bureau, tablette ou carnet en main",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Bureau/automne_bureau_debout_001.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: debout pres du bureau, tablette ou carnet en main. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_002",
+    "season": "Automne",
+    "category": "Travail",
+    "slug": "tape-sur-ordinateur",
+    "description": "tape sur ordinateur portable EcoMilie",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Travail/automne_bureau_tape-sur-ordinateur_002.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: tape sur ordinateur portable EcoMilie. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_003",
+    "season": "Automne",
+    "category": "Travail",
+    "slug": "regarde-ecran",
+    "description": "regarde son ecran avec concentration",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Travail/automne_bureau_regarde-ecran_003.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: regarde son ecran avec concentration. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_004",
+    "season": "Automne",
+    "category": "Travail",
+    "slug": "prend-des-notes",
+    "description": "prend des notes dans un carnet beige",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Travail/automne_bureau_prend-des-notes_004.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: prend des notes dans un carnet beige. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_005",
+    "season": "Automne",
+    "category": "Travail",
+    "slug": "reflechit",
+    "description": "reflechit calmement avec stylo en main",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Travail/automne_bureau_reflechit_005.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: reflechit calmement avec stylo en main. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_006",
+    "season": "Automne",
+    "category": "Téléphone",
+    "slug": "telephone-en-main",
+    "description": "tient son telephone avec une offre EcoMilie visible sans texte lisible",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Téléphone/automne_telephone_telephone-en-main_006.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: tient son telephone avec une offre EcoMilie visible sans texte lisible. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_007",
+    "season": "Automne",
+    "category": "Téléphone",
+    "slug": "regarde-ecomilie",
+    "description": "regarde l application ou le site EcoMilie sur telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Téléphone/automne_telephone_regarde-ecomilie_007.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: regarde l application ou le site EcoMilie sur telephone. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_008",
+    "season": "Automne",
+    "category": "Téléphone",
+    "slug": "fait-defiler",
+    "description": "fait defiler des bons plans sur son telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Téléphone/automne_telephone_fait-defiler_008.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: fait defiler des bons plans sur son telephone. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_009",
+    "season": "Automne",
+    "category": "Téléphone",
+    "slug": "montre-telephone",
+    "description": "montre son telephone vers la camera avec sourire discret",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Téléphone/automne_telephone_montre-telephone_009.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: montre son telephone vers la camera avec sourire discret. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_010",
+    "season": "Automne",
+    "category": "Téléphone",
+    "slug": "decouvre-bon-plan",
+    "description": "decouvre un bon plan avec expression satisfaite",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Téléphone/automne_telephone_decouvre-bon-plan_010.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: decouvre un bon plan avec expression satisfaite. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_011",
+    "season": "Automne",
+    "category": "Courses",
+    "slug": "panier",
+    "description": "porte un panier de courses dans une ambiance douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Courses/automne_courses_panier_011.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: porte un panier de courses dans une ambiance douce. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_012",
+    "season": "Automne",
+    "category": "Courses",
+    "slug": "supermarche",
+    "description": "dans un rayon de supermarche clair, compare calmement",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Courses/automne_courses_supermarche_012.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans un rayon de supermarche clair, compare calmement. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_013",
+    "season": "Automne",
+    "category": "Courses",
+    "slug": "compare-prix",
+    "description": "compare deux prix ou deux produits avec attention",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Courses/automne_courses_compare-prix_013.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: compare deux prix ou deux produits avec attention. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_014",
+    "season": "Automne",
+    "category": "Courses",
+    "slug": "choisit-produit",
+    "description": "choisit un produit utile dans un rayon",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Courses/automne_courses_choisit-produit_014.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: choisit un produit utile dans un rayon. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_015",
+    "season": "Automne",
+    "category": "Restaurant",
+    "slug": "terrasse",
+    "description": "assise en terrasse, consulte une offre avant de commander",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Restaurant/automne_restaurant_terrasse_015.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise en terrasse, consulte une offre avant de commander. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_016",
+    "season": "Automne",
+    "category": "Restaurant",
+    "slug": "paiement",
+    "description": "paie de maniere simple avec telephone ou carte",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Restaurant/automne_restaurant_paiement_016.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: paie de maniere simple avec telephone ou carte. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_017",
+    "season": "Automne",
+    "category": "Restaurant",
+    "slug": "consultation-offre",
+    "description": "consulte une offre restaurant sur telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Restaurant/automne_restaurant_consultation-offre_017.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: consulte une offre restaurant sur telephone. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_018",
+    "season": "Automne",
+    "category": "Voyage",
+    "slug": "gare",
+    "description": "a la gare avec petite valise, organisation douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Voyage/automne_voyage_gare_018.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: a la gare avec petite valise, organisation douce. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_019",
+    "season": "Automne",
+    "category": "Voyage",
+    "slug": "aeroport",
+    "description": "aeroport lumineux avec valise cabine",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Voyage/automne_voyage_aeroport_019.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: aeroport lumineux avec valise cabine. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_020",
+    "season": "Automne",
+    "category": "Voyage",
+    "slug": "valise",
+    "description": "prepare sa valise avec carnet bons plans",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Voyage/automne_voyage_valise_020.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: prepare sa valise avec carnet bons plans. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_021",
+    "season": "Automne",
+    "category": "Voyage",
+    "slug": "reservation",
+    "description": "reserve un trajet sur ordinateur ou telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Voyage/automne_voyage_reservation_021.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: reserve un trajet sur ordinateur ou telephone. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_022",
+    "season": "Automne",
+    "category": "Maison",
+    "slug": "canape",
+    "description": "assise sur canape clair avec telephone et carnet",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Maison/automne_maison_canape_022.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise sur canape clair avec telephone et carnet. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_023",
+    "season": "Automne",
+    "category": "Maison",
+    "slug": "cuisine",
+    "description": "dans une cuisine lumineuse, organise ses courses",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Maison/automne_maison_cuisine_023.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans une cuisine lumineuse, organise ses courses. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_024",
+    "season": "Automne",
+    "category": "Maison",
+    "slug": "salon",
+    "description": "dans un salon beige et vert sauge, ambiance cosy",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Maison/automne_maison_salon_024.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans un salon beige et vert sauge, ambiance cosy. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Automne_025",
+    "season": "Automne",
+    "category": "Maison",
+    "slug": "bureau-maison",
+    "description": "coin bureau a la maison, lumiere naturelle",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Automne/Maison/automne_maison_bureau-maison_025.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: coin bureau a la maison, lumiere naturelle. lumiere doree, feuilles discretes, bois clair, ambiance cocon.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: pull fin beige ou terracotta, veste legere, tons chauds.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_001",
+    "season": "Hiver",
+    "category": "Téléphone",
+    "slug": "telephone-en-main",
+    "description": "tient son telephone avec une offre EcoMilie visible sans texte lisible",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Téléphone/hiver_telephone_telephone-en-main_001.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: tient son telephone avec une offre EcoMilie visible sans texte lisible. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_002",
+    "season": "Hiver",
+    "category": "Téléphone",
+    "slug": "regarde-ecomilie",
+    "description": "regarde l application ou le site EcoMilie sur telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Téléphone/hiver_telephone_regarde-ecomilie_002.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: regarde l application ou le site EcoMilie sur telephone. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_003",
+    "season": "Hiver",
+    "category": "Téléphone",
+    "slug": "fait-defiler",
+    "description": "fait defiler des bons plans sur son telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Téléphone/hiver_telephone_fait-defiler_003.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: fait defiler des bons plans sur son telephone. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_004",
+    "season": "Hiver",
+    "category": "Téléphone",
+    "slug": "montre-telephone",
+    "description": "montre son telephone vers la camera avec sourire discret",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Téléphone/hiver_telephone_montre-telephone_004.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: montre son telephone vers la camera avec sourire discret. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_005",
+    "season": "Hiver",
+    "category": "Téléphone",
+    "slug": "decouvre-bon-plan",
+    "description": "decouvre un bon plan avec expression satisfaite",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Téléphone/hiver_telephone_decouvre-bon-plan_005.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: decouvre un bon plan avec expression satisfaite. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_006",
+    "season": "Hiver",
+    "category": "Courses",
+    "slug": "panier",
+    "description": "porte un panier de courses dans une ambiance douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Courses/hiver_courses_panier_006.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: porte un panier de courses dans une ambiance douce. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_007",
+    "season": "Hiver",
+    "category": "Courses",
+    "slug": "supermarche",
+    "description": "dans un rayon de supermarche clair, compare calmement",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Courses/hiver_courses_supermarche_007.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans un rayon de supermarche clair, compare calmement. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_008",
+    "season": "Hiver",
+    "category": "Courses",
+    "slug": "compare-prix",
+    "description": "compare deux prix ou deux produits avec attention",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Courses/hiver_courses_compare-prix_008.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: compare deux prix ou deux produits avec attention. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_009",
+    "season": "Hiver",
+    "category": "Courses",
+    "slug": "choisit-produit",
+    "description": "choisit un produit utile dans un rayon",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Courses/hiver_courses_choisit-produit_009.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: choisit un produit utile dans un rayon. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_010",
+    "season": "Hiver",
+    "category": "Restaurant",
+    "slug": "terrasse",
+    "description": "assise en terrasse, consulte une offre avant de commander",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Restaurant/hiver_restaurant_terrasse_010.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise en terrasse, consulte une offre avant de commander. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_011",
+    "season": "Hiver",
+    "category": "Restaurant",
+    "slug": "paiement",
+    "description": "paie de maniere simple avec telephone ou carte",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Restaurant/hiver_restaurant_paiement_011.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: paie de maniere simple avec telephone ou carte. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_012",
+    "season": "Hiver",
+    "category": "Restaurant",
+    "slug": "consultation-offre",
+    "description": "consulte une offre restaurant sur telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Restaurant/hiver_restaurant_consultation-offre_012.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: consulte une offre restaurant sur telephone. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_013",
+    "season": "Hiver",
+    "category": "Voyage",
+    "slug": "gare",
+    "description": "a la gare avec petite valise, organisation douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Voyage/hiver_voyage_gare_013.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: a la gare avec petite valise, organisation douce. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_014",
+    "season": "Hiver",
+    "category": "Voyage",
+    "slug": "aeroport",
+    "description": "aeroport lumineux avec valise cabine",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Voyage/hiver_voyage_aeroport_014.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: aeroport lumineux avec valise cabine. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_015",
+    "season": "Hiver",
+    "category": "Voyage",
+    "slug": "valise",
+    "description": "prepare sa valise avec carnet bons plans",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Voyage/hiver_voyage_valise_015.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: prepare sa valise avec carnet bons plans. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_016",
+    "season": "Hiver",
+    "category": "Voyage",
+    "slug": "reservation",
+    "description": "reserve un trajet sur ordinateur ou telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Voyage/hiver_voyage_reservation_016.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: reserve un trajet sur ordinateur ou telephone. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_017",
+    "season": "Hiver",
+    "category": "Maison",
+    "slug": "canape",
+    "description": "assise sur canape clair avec telephone et carnet",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Maison/hiver_maison_canape_017.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise sur canape clair avec telephone et carnet. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_018",
+    "season": "Hiver",
+    "category": "Maison",
+    "slug": "cuisine",
+    "description": "dans une cuisine lumineuse, organise ses courses",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Maison/hiver_maison_cuisine_018.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans une cuisine lumineuse, organise ses courses. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_019",
+    "season": "Hiver",
+    "category": "Maison",
+    "slug": "salon",
+    "description": "dans un salon beige et vert sauge, ambiance cosy",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Maison/hiver_maison_salon_019.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans un salon beige et vert sauge, ambiance cosy. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_020",
+    "season": "Hiver",
+    "category": "Maison",
+    "slug": "bureau-maison",
+    "description": "coin bureau a la maison, lumiere naturelle",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Maison/hiver_maison_bureau-maison_020.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: coin bureau a la maison, lumiere naturelle. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_021",
+    "season": "Hiver",
+    "category": "Café",
+    "slug": "boit-cafe",
+    "description": "boit un cafe avec sourire naturel",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Café/hiver_cafe_boit-cafe_021.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: boit un cafe avec sourire naturel. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_022",
+    "season": "Hiver",
+    "category": "Café",
+    "slug": "tasse-main",
+    "description": "tasse a la main, ordinateur ouvert",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Café/hiver_cafe_tasse-main_022.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: tasse a la main, ordinateur ouvert. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_023",
+    "season": "Hiver",
+    "category": "Café",
+    "slug": "terrasse",
+    "description": "assise en terrasse de cafe, carnet et telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Café/hiver_cafe_terrasse_023.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise en terrasse de cafe, carnet et telephone. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_024",
+    "season": "Hiver",
+    "category": "Café",
+    "slug": "travaille-cafe",
+    "description": "travaille au cafe sur ordinateur portable",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Café/hiver_cafe_travaille-cafe_024.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: travaille au cafe sur ordinateur portable. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Hiver_025",
+    "season": "Hiver",
+    "category": "Expressions",
+    "slug": "surprise",
+    "description": "expression surprise douce, decouverte positive",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Hiver/Expressions/hiver_expressions_surprise_025.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: expression surprise douce, decouverte positive. lumiere hivernale chaleureuse, decoration douce, interieur cosy.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: manteau doux, echarpe creme ou vert sauge, pull chaud elegant.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_001",
+    "season": "Printemps",
+    "category": "Courses",
+    "slug": "panier",
+    "description": "porte un panier de courses dans une ambiance douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Courses/printemps_courses_panier_001.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: porte un panier de courses dans une ambiance douce. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_002",
+    "season": "Printemps",
+    "category": "Courses",
+    "slug": "supermarche",
+    "description": "dans un rayon de supermarche clair, compare calmement",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Courses/printemps_courses_supermarche_002.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans un rayon de supermarche clair, compare calmement. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_003",
+    "season": "Printemps",
+    "category": "Courses",
+    "slug": "compare-prix",
+    "description": "compare deux prix ou deux produits avec attention",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Courses/printemps_courses_compare-prix_003.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: compare deux prix ou deux produits avec attention. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_004",
+    "season": "Printemps",
+    "category": "Courses",
+    "slug": "choisit-produit",
+    "description": "choisit un produit utile dans un rayon",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Courses/printemps_courses_choisit-produit_004.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: choisit un produit utile dans un rayon. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_005",
+    "season": "Printemps",
+    "category": "Restaurant",
+    "slug": "terrasse",
+    "description": "assise en terrasse, consulte une offre avant de commander",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Restaurant/printemps_restaurant_terrasse_005.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise en terrasse, consulte une offre avant de commander. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_006",
+    "season": "Printemps",
+    "category": "Restaurant",
+    "slug": "paiement",
+    "description": "paie de maniere simple avec telephone ou carte",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Restaurant/printemps_restaurant_paiement_006.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: paie de maniere simple avec telephone ou carte. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_007",
+    "season": "Printemps",
+    "category": "Restaurant",
+    "slug": "consultation-offre",
+    "description": "consulte une offre restaurant sur telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Restaurant/printemps_restaurant_consultation-offre_007.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: consulte une offre restaurant sur telephone. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_008",
+    "season": "Printemps",
+    "category": "Voyage",
+    "slug": "gare",
+    "description": "a la gare avec petite valise, organisation douce",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Voyage/printemps_voyage_gare_008.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: a la gare avec petite valise, organisation douce. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_009",
+    "season": "Printemps",
+    "category": "Voyage",
+    "slug": "aeroport",
+    "description": "aeroport lumineux avec valise cabine",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Voyage/printemps_voyage_aeroport_009.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: aeroport lumineux avec valise cabine. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_010",
+    "season": "Printemps",
+    "category": "Voyage",
+    "slug": "valise",
+    "description": "prepare sa valise avec carnet bons plans",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Voyage/printemps_voyage_valise_010.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: prepare sa valise avec carnet bons plans. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_011",
+    "season": "Printemps",
+    "category": "Voyage",
+    "slug": "reservation",
+    "description": "reserve un trajet sur ordinateur ou telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Voyage/printemps_voyage_reservation_011.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: reserve un trajet sur ordinateur ou telephone. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_012",
+    "season": "Printemps",
+    "category": "Maison",
+    "slug": "canape",
+    "description": "assise sur canape clair avec telephone et carnet",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Maison/printemps_maison_canape_012.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise sur canape clair avec telephone et carnet. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_013",
+    "season": "Printemps",
+    "category": "Maison",
+    "slug": "cuisine",
+    "description": "dans une cuisine lumineuse, organise ses courses",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Maison/printemps_maison_cuisine_013.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans une cuisine lumineuse, organise ses courses. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_014",
+    "season": "Printemps",
+    "category": "Maison",
+    "slug": "salon",
+    "description": "dans un salon beige et vert sauge, ambiance cosy",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Maison/printemps_maison_salon_014.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: dans un salon beige et vert sauge, ambiance cosy. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_015",
+    "season": "Printemps",
+    "category": "Maison",
+    "slug": "bureau-maison",
+    "description": "coin bureau a la maison, lumiere naturelle",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Maison/printemps_maison_bureau-maison_015.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: coin bureau a la maison, lumiere naturelle. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_016",
+    "season": "Printemps",
+    "category": "Café",
+    "slug": "boit-cafe",
+    "description": "boit un cafe avec sourire naturel",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Café/printemps_cafe_boit-cafe_016.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: boit un cafe avec sourire naturel. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_017",
+    "season": "Printemps",
+    "category": "Café",
+    "slug": "tasse-main",
+    "description": "tasse a la main, ordinateur ouvert",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Café/printemps_cafe_tasse-main_017.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: tasse a la main, ordinateur ouvert. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_018",
+    "season": "Printemps",
+    "category": "Café",
+    "slug": "terrasse",
+    "description": "assise en terrasse de cafe, carnet et telephone",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Café/printemps_cafe_terrasse_018.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: assise en terrasse de cafe, carnet et telephone. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_019",
+    "season": "Printemps",
+    "category": "Café",
+    "slug": "travaille-cafe",
+    "description": "travaille au cafe sur ordinateur portable",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Café/printemps_cafe_travaille-cafe_019.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: travaille au cafe sur ordinateur portable. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_020",
+    "season": "Printemps",
+    "category": "Expressions",
+    "slug": "surprise",
+    "description": "expression surprise douce, decouverte positive",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Expressions/printemps_expressions_surprise_020.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: expression surprise douce, decouverte positive. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_021",
+    "season": "Printemps",
+    "category": "Expressions",
+    "slug": "heureuse",
+    "description": "expression heureuse mais naturelle",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Expressions/printemps_expressions_heureuse_021.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: expression heureuse mais naturelle. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_022",
+    "season": "Printemps",
+    "category": "Expressions",
+    "slug": "fiere",
+    "description": "expression fiere et confiante",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Expressions/printemps_expressions_fiere_022.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: expression fiere et confiante. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_023",
+    "season": "Printemps",
+    "category": "Expressions",
+    "slug": "concentree",
+    "description": "expression concentree et intelligente",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Expressions/printemps_expressions_concentree_023.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: expression concentree et intelligente. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_024",
+    "season": "Printemps",
+    "category": "Expressions",
+    "slug": "reflechit",
+    "description": "regard pensif, main pres du menton",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Expressions/printemps_expressions_reflechit_024.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: regard pensif, main pres du menton. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  },
+  {
+    "id": "Printemps_025",
+    "season": "Printemps",
+    "category": "Expressions",
+    "slug": "satisfaite",
+    "description": "expression satisfaite apres une economie",
+    "target_path": "outputs/ecomilie-v1/EcoMilie_Assets/Printemps/Expressions/printemps_expressions_satisfaite_025.png",
+    "prompt": "Use case: illustration-story\nAsset type: official EcoMilie character library image\nPrimary request: Create one reusable high-resolution illustration of the official EcoMilie woman character.\nScene/backdrop: expression satisfaite apres une economie. lumiere printaniere, fleurs, tons frais, interieur lumineux.\nSubject: the same recurring EcoMilie woman, 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun, blue eyes, thin elegant glasses, soft smiling face, very light makeup, normal silhouette, benevolent natural attitude.\nStyle/medium: premium semi-realistic illustration matching EcoMilie blog references.\nComposition/framing: clean reusable composition, generous padding, subject clearly identifiable, no text.\nLighting/mood: natural warm light, trustworthy, simple, close, organized, intelligent.\nColor palette: cream, beige, sage green, terracotta, light wood, off-white. Seasonal clothing: chemise creme, cardigan vert sauge clair, touche florale discrete.\nConstraints: same face, same hairstyle, same glasses, same body type, same palette, same premium EcoMilie identity across the whole library.\nAvoid: influencer look, glamour pose, advertising feel, exaggerated smile, different glasses, loose hair, dark harsh colors, visible brand names, watermark, text."
+  }
+]

@@ -1,0 +1,10 @@
+Use case: illustration-story
+Asset type: official EcoMilie character reference sheet
+Primary request: Create a character reference sheet for the official EcoMilie woman, showing the exact same woman in 5 views: face, three-quarter, profile, seated, standing.
+Scene/backdrop: clean warm off-white studio background with very subtle beige/sage accents, no text.
+Subject: woman 28-35 years old, light chestnut hair with natural blonde highlights, messy soft bun slightly undone, blue eyes, thin elegant glasses, soft smiling face, very light makeup, natural style, normal silhouette, benevolent organized attitude.
+Style/medium: premium semi-realistic illustration matching EcoMilie blog references, warm natural light, cream beige sage green terracotta light wood off-white palette.
+Composition/framing: reference sheet layout, full character consistency, same face and glasses in every pose, generous spacing, no labels, no words.
+Lighting/mood: trustworthy, simple, soft, close, intelligent, organized.
+Constraints: the face must remain identical in all five poses; same glasses, same bun, same morphologie; no text, no watermark.
+Avoid: influencer look, glamour, advertising pose, different hairstyle, different glasses, dark colors.

@@ -1,0 +1,48 @@
+{
+  "name": "Personnage officiel EcoMilie",
+  "role": "Visage recurrent de la communication EcoMilie",
+  "identity_lock": {
+    "age_range": "28 a 35 ans",
+    "hair": "cheveux chatain clair avec quelques meches blondes naturelles, chignon flou legerement decoiffe",
+    "eyes": "yeux bleus",
+    "glasses": "lunettes fines et elegantes, monture discrete",
+    "face": "visage doux, souriant, naturel, traits constants d une image a l autre",
+    "makeup": "maquillage tres leger",
+    "body": "silhouette normale, posture bienveillante et naturelle",
+    "avoid": [
+      "influenceuse",
+      "publicite agressive",
+      "pose glamour",
+      "visage different",
+      "lunettes differentes",
+      "cheveux detaches"
+    ]
+  },
+  "style_lock": {
+    "medium": "illustration semi-realiste premium",
+    "lighting": "lumiere naturelle douce et chaleureuse",
+    "palette": [
+      "creme",
+      "beige",
+      "vert sauge",
+      "terracotta",
+      "bois clair",
+      "blanc casse"
+    ],
+    "mood": [
+      "confiance",
+      "simplicite",
+      "douceur",
+      "proximite",
+      "organisation",
+      "intelligence"
+    ],
+    "references": [
+      "_references/presentation.png",
+      "_references/bons-plans.png",
+      "_references/cashback.png",
+      "_references/parrainage.png",
+      "_references/applications.png"
+    ]
+  }
+}
