@@ -212,3 +212,37 @@
   const count=links.size;
   counter.innerHTML='&#128218; '+count+' article'+(count>1?'s':'')+' disponible'+(count>1?'s':'');
 })();
+
+(function(){
+  const shareButtons=document.querySelectorAll('[data-copy-link]');
+  if(!shareButtons.length)return;
+  shareButtons.forEach(function(button){
+    button.addEventListener('click',async function(){
+      const url=button.getAttribute('data-copy-url')||window.location.href;
+      const share=button.closest('.article-share');
+      const status=share?share.querySelector('[data-copy-status]'):null;
+      const initial=button.innerHTML;
+      try{
+        if(navigator.clipboard&&window.isSecureContext){
+          await navigator.clipboard.writeText(url);
+        }else{
+          const input=document.createElement('textarea');
+          input.value=url;
+          input.setAttribute('readonly','');
+          input.style.position='absolute';
+          input.style.left='-9999px';
+          document.body.appendChild(input);
+          input.select();
+          document.execCommand('copy');
+          input.remove();
+        }
+        if(status){status.textContent='Lien copi\u00e9.';}
+        button.innerHTML='<span class="share-icon" aria-hidden="true">OK</span><span>Lien copi\u00e9</span>';
+        setTimeout(function(){button.innerHTML=initial;if(status){status.textContent='';}},2200);
+      }catch(error){
+        if(status){status.textContent='Impossible de copier le lien pour le moment.';}
+      }
+    });
+  });
+})();
+
