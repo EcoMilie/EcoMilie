@@ -140,3 +140,17 @@ Le formulaire est préparé pour Formspree, sans endpoint public par défaut.
 5. Redéployer le site.
 
 Tant que `FORM_ENDPOINT` est vide, le bouton du formulaire reste désactivé et aucun message n'est envoyé.
+
+
+## Le Rendez-vous EcoMilie
+
+Le site contient un encart d'inscription e-mail réutilisable pour construire la base d'abonnés EcoMilie.
+
+Configuration :
+
+1. Créer un formulaire public dans Brevo, MailerLite, Formspree ou une fonction Vercel.
+2. Copier l'endpoint public du formulaire.
+3. Coller cet endpoint dans `assets/newsletter-config.js`, dans la valeur `SUBSCRIBE_ENDPOINT`.
+4. Ne jamais ajouter de clé API privée dans le site. Si le service demande une clé secrète, passer par une fonction serverless Vercel.
+
+Tant que `SUBSCRIBE_ENDPOINT` est vide, le formulaire affiche un message indiquant que Le Rendez-vous EcoMilie sera disponible très prochainement.

@@ -246,3 +246,61 @@
   });
 })();
 
+
+(function(){
+  const forms=document.querySelectorAll('[data-newsletter-form]');
+  if(!forms.length)return;
+  const config=window.ECOMILIE_NEWSLETTER_CONFIG||{};
+  const endpoint=String(config.SUBSCRIBE_ENDPOINT||'').trim();
+
+  function setStatus(form,message,type){
+    const status=form.querySelector('[data-newsletter-status]');
+    if(!status)return;
+    status.textContent=message;
+    status.dataset.type=type||'';
+  }
+
+  function setDisabled(form,disabled){
+    Array.from(form.querySelectorAll('input,button')).forEach(function(field){
+      field.disabled=disabled;
+    });
+  }
+
+  forms.forEach(function(form){
+    const submit=form.querySelector('button[type="submit"]');
+    const defaultLabel=submit?submit.textContent:'';
+    if(!endpoint){
+      setStatus(form,'Le Rendez-vous EcoMilie sera disponible tr\u00e8s prochainement.','');
+    }
+    form.addEventListener('submit',async function(event){
+      event.preventDefault();
+      const email=form.querySelector('input[type="email"]');
+      const honeypot=form.querySelector('.newsletter-honeypot');
+      if(honeypot&&honeypot.value){return;}
+      if(!endpoint){
+        setStatus(form,'Le Rendez-vous EcoMilie sera disponible tr\u00e8s prochainement.','error');
+        return;
+      }
+      if(!email||!email.checkValidity()){
+        if(email){email.focus();}
+        setStatus(form,'Entre une adresse e-mail valide pour rejoindre Le Rendez-vous EcoMilie.','error');
+        return;
+      }
+      const payload=new FormData(form);
+      payload.append('source',String(config.SOURCE||'Le Rendez-vous EcoMilie'));
+      try{
+        if(submit){submit.textContent='Inscription en cours...';}
+        setDisabled(form,true);
+        const response=await fetch(endpoint,{method:'POST',body:payload,headers:{'Accept':'application/json'}});
+        if(!response.ok){throw new Error('newsletter failed');}
+        form.reset();
+        setStatus(form,'Merci ! Bienvenue dans Le Rendez-vous EcoMilie \uD83C\uDF33 Tu recevras bient\u00f4t nos meilleurs conseils, d\u00e9fis et bons plans.','success');
+      }catch(error){
+        setStatus(form,'L'inscription n'a pas pu \u00eatre envoy\u00e9e pour le moment. R\u00e9essaie dans quelques instants.','error');
+      }finally{
+        setDisabled(form,false);
+        if(submit){submit.textContent=defaultLabel;}
+      }
+    });
+  });
+})();

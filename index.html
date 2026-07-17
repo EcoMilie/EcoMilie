@@ -193,6 +193,33 @@
         </div>
       </section>
 
+<section class="section newsletter-section" aria-labelledby="newsletter-title">
+  <div class="newsletter-card" data-newsletter-card>
+    <div class="newsletter-copy">
+      <p class="eyebrow">Le Rendez-vous EcoMilie</p>
+      <h2 id="newsletter-title">&#128233; Rejoins Le Rendez-vous EcoMilie</h2>
+      <p class="newsletter-lead">Chaque semaine, re&ccedil;ois gratuitement :</p>
+      <ul class="newsletter-list" aria-label="Contenu du Rendez-vous EcoMilie">
+        <li>&#127793; Le Conseil EcoMilie</li>
+        <li>&#127919; Le D&eacute;fi EcoMilie</li>
+        <li>&#128176; Les meilleurs bons plans</li>
+        <li>&#128241; Les applications utiles</li>
+        <li>&#127873; Les offres &agrave; ne pas manquer</li>
+      </ul>
+      <p class="newsletter-reassurance">Aucun spam. Tu peux te d&eacute;sinscrire &agrave; tout moment.</p>
+    </div>
+    <form class="newsletter-form" data-newsletter-form novalidate>
+      <label for="newsletter-email">Ton adresse e-mail</label>
+      <div class="newsletter-field-row">
+        <input id="newsletter-email" name="email" type="email" autocomplete="email" placeholder="tonadresse@email.fr" required />
+        <button class="button primary" type="submit">Je m&apos;inscris gratuitement</button>
+      </div>
+      <input class="newsletter-honeypot" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+      <p class="newsletter-status" data-newsletter-status role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
       <section class="section social-home-section">
         <div class="social-home-card">
           <div class="section-heading">
@@ -263,6 +290,7 @@
     </footer>
 
     <script src="assets/offers.js"></script>
+    <script src="assets/newsletter-config.js"></script>
     <script src="assets/site.js"></script>
   </body>
 </html>
