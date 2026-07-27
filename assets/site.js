@@ -2,10 +2,53 @@
   const toggle=document.querySelector(".nav-toggle");
   const nav=document.querySelector(".site-nav");
   if(toggle&&nav){
+    const desktopQuery=window.matchMedia("(min-width:900px)");
+
+    function setMenuOpen(isOpen,returnFocus){
+      toggle.setAttribute("aria-expanded",String(isOpen));
+      toggle.setAttribute("aria-label",isOpen?"Fermer le menu de navigation":"Ouvrir le menu de navigation");
+      nav.classList.toggle("is-open",isOpen);
+      if(!isOpen){
+        nav.querySelectorAll("details[open]").forEach(function(details){
+          details.removeAttribute("open");
+        });
+        if(returnFocus){
+          toggle.focus();
+        }
+      }
+    }
+
+    setMenuOpen(false,false);
+
     toggle.addEventListener("click",function(){
       const isOpen=toggle.getAttribute("aria-expanded")==="true";
-      toggle.setAttribute("aria-expanded",String(!isOpen));
-      nav.classList.toggle("is-open",!isOpen);
+      setMenuOpen(!isOpen,false);
+    });
+
+    toggle.addEventListener("keydown",function(event){
+      if(event.key==="Enter"||event.key===" "||event.key==="Spacebar"){
+        event.preventDefault();
+        const isOpen=toggle.getAttribute("aria-expanded")==="true";
+        setMenuOpen(!isOpen,false);
+      }
+    });
+
+    nav.addEventListener("click",function(event){
+      if(event.target.closest("a")){
+        setMenuOpen(false,false);
+      }
+    });
+
+    document.addEventListener("keydown",function(event){
+      if(event.key==="Escape"&&toggle.getAttribute("aria-expanded")==="true"){
+        setMenuOpen(false,true);
+      }
+    });
+
+    desktopQuery.addEventListener("change",function(event){
+      if(event.matches){
+        setMenuOpen(false,false);
+      }
     });
   }
 
@@ -296,7 +339,7 @@
         form.reset();
         setStatus(form,'Merci ! Bienvenue dans Le Rendez-vous EcoMilie \uD83C\uDF33 Tu recevras bient\u00f4t nos meilleurs conseils, d\u00e9fis et bons plans.','success');
       }catch(error){
-        setStatus(form,'L'inscription n'a pas pu \u00eatre envoy\u00e9e pour le moment. R\u00e9essaie dans quelques instants.','error');
+        setStatus(form,"L'inscription n'a pas pu \u00eatre envoy\u00e9e pour le moment. R\u00e9essaie dans quelques instants.",'error');
       }finally{
         setDisabled(form,false);
         if(submit){submit.textContent=defaultLabel;}

@@ -77,3 +77,19 @@
 .newsletter-status{min-height:20px;font-size:.9rem;}
 @media (min-width:760px){.newsletter-card{grid-template-columns:minmax(0,.98fr) minmax(360px,1.02fr);gap:24px;padding:24px 26px;}.newsletter-section.article-newsletter .newsletter-card{grid-template-columns:minmax(0,.95fr) minmax(320px,1.05fr);}.newsletter-field-row{grid-template-columns:minmax(0,1fr) auto;gap:12px;}}
 @media (max-width:520px){.newsletter-section{padding-top:20px;padding-bottom:28px;}.newsletter-card{gap:16px;padding:18px 15px;}.newsletter-value{font-size:.95rem;}.newsletter-form{padding:14px;}.newsletter-form input[type="email"],.newsletter-form .button.primary{min-height:54px;}.newsletter-field-row{gap:10px;}}
+
+/* Navigation mobile */
+.site-header{z-index:100;isolation:isolate;}
+.nav-toggle{position:relative;z-index:2;cursor:pointer;pointer-events:auto;touch-action:manipulation;}
+.site-nav{position:relative;z-index:1;}
+@media (min-width:680px) and (max-width:899px){
+  .site-header{grid-template-columns:1fr auto 1fr;}
+  .nav-toggle{grid-column:3;justify-self:end;display:inline-flex;}
+  .site-nav{grid-column:1/-1;justify-self:stretch;display:none;width:100%;flex-direction:column;align-items:stretch;gap:6px;padding-top:8px;}
+  .site-nav.is-open{display:flex;}
+  .site-nav a{border-radius:8px;padding:12px 14px;white-space:normal;}
+  .offers-menu{width:100%;}
+  .offers-menu summary{border-radius:8px;padding:12px 14px;}
+  .offers-submenu{position:static;min-width:0;transform:none;padding:6px 0 0;border:0;background:transparent;box-shadow:none;}
+  .offers-menu:hover .offers-submenu,.offers-menu:focus-within .offers-submenu{display:grid;}
+}
